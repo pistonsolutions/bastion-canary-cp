@@ -1,0 +1,5 @@
+{
+  "buildName": "bastion-canary-cp",
+  "version": "1.0.0",
+  "buildTag": "MEMCANARY-26d0b57313"
+}
